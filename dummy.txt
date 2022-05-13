@@ -4,4 +4,10 @@ Guar nahi gujar likens tha
 
 Acha g 
 
+<<<<<<< HEAD
 Changing from cloned folder by guar
+=======
+
+
+edited online
+>>>>>>> d714d00f6816ebe6d5d7b3561965491689cd30cb
